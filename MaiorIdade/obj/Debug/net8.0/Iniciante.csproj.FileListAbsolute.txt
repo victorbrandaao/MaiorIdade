@@ -1,0 +1,14 @@
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/obj/Debug/net8.0/Iniciante.GeneratedMSBuildEditorConfig.editorconfig
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/obj/Debug/net8.0/Iniciante.AssemblyInfoInputs.cache
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/obj/Debug/net8.0/Iniciante.AssemblyInfo.cs
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/obj/Debug/net8.0/Iniciante.csproj.CoreCompileInputs.cache
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/bin/Debug/net8.0/Iniciante
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/bin/Debug/net8.0/Iniciante.deps.json
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/bin/Debug/net8.0/Iniciante.runtimeconfig.json
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/bin/Debug/net8.0/Iniciante.dll
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/bin/Debug/net8.0/Iniciante.pdb
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/obj/Debug/net8.0/Iniciante.dll
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/obj/Debug/net8.0/refint/Iniciante.dll
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/obj/Debug/net8.0/Iniciante.pdb
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/obj/Debug/net8.0/Iniciante.genruntimeconfig.cache
+/Users/victorbrandao/RiderProjects/Iniciante/Iniciante/obj/Debug/net8.0/ref/Iniciante.dll
